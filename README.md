@@ -1,4 +1,9 @@
-### Hi there 👋
+Olá bem-vindo ao meu perfil! 
+
+Meu nome é Lucas Nauberth, tenho 17 anos e sou desenvolvedor.
+
+Atualmente sigo estudando e me dedicando para encontrar meu espaço na área de forma profissional.
+Tenho 
 
 <!--
 **lucasnauberth28/lucasnauberth28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
